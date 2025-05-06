@@ -1,0 +1,111 @@
+[
+  {
+    "name": "Core Java (Entry Level) (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/core-java-entry-level-new/",
+    "description": "Assessment for entry-level Java developers, covering core Java concepts and coding skills.",
+    "remote_testing_support": "Yes",
+    "adaptive_irt_support": "No",
+    "duration": "40 minutes",
+    "test_type": "Programming"
+  },
+  {
+    "name": "Agile Software Development",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/agile-software-development/",
+    "description": "Assessment for Agile software development skills, teamwork, and collaboration.",
+    "remote_testing_support": "Yes",
+    "adaptive_irt_support": "No",
+    "duration": "45 minutes",
+    "test_type": "Soft Skills"
+  },
+  {
+    "name": "Automata Selenium",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/automata-selenium/",
+    "description": "Assessment for Selenium automation, QA, and testing skills.",
+    "remote_testing_support": "Yes",
+    "adaptive_irt_support": "Yes",
+    "duration": "60 minutes",
+    "test_type": "Programming"
+  },
+  {
+    "name": "Administrative Professional - Short Form",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/administrative-professional-short-form/",
+    "description": "Assessment for administrative professionals, covering organizational and communication skills.",
+    "remote_testing_support": "Yes",
+    "adaptive_irt_support": "No",
+    "duration": "35 minutes",
+    "test_type": "Aptitude"
+  },
+  {
+    "name": "Java 8 (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/java-8-new/",
+    "description": "Assessment for Java 8 programming skills and concepts.",
+    "remote_testing_support": "Yes",
+    "adaptive_irt_support": "No",
+    "duration": "40 minutes",
+    "test_type": "Programming"
+  },
+  {
+    "name": "Automata - Fix (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/automata-fix-new/",
+    "description": "Assessment for debugging and fixing code in Java and related technologies.",
+    "remote_testing_support": "Yes",
+    "adaptive_irt_support": "Yes",
+    "duration": "40 minutes",
+    "test_type": "Programming"
+  },
+  {
+    "name": "Technology Professional 8.0 Job Focused Assessment",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/technology-professional-8-0-job-focused-assessment/",
+    "description": "Comprehensive assessment for technology professionals, including coding and problem-solving.",
+    "remote_testing_support": "Yes",
+    "adaptive_irt_support": "Yes",
+    "duration": "60 minutes",
+    "test_type": "Programming"
+  },
+  {
+    "name": "Entry Level Sales Solution",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/entry-level-sales-solution/",
+    "description": "Assessment for entry-level sales skills, communication, and persuasion.",
+    "remote_testing_support": "Yes",
+    "adaptive_irt_support": "No",
+    "duration": "60 minutes",
+    "test_type": "Sales"
+  },
+  {
+    "name": "SVAR - Spoken English (Indian Accent) (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/svar-spoken-english-indian-accent-new/",
+    "description": "Assessment for spoken English proficiency, Indian accent focus.",
+    "remote_testing_support": "Yes",
+    "adaptive_irt_support": "No",
+    "duration": "30 minutes",
+    "test_type": "Language"
+  },
+  {
+    "name": "Manual Testing (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/manual-testing-new/",
+    "description": "Assessment for manual software testing skills, test case design, and QA knowledge.",
+    "remote_testing_support": "Yes",
+    "adaptive_irt_support": "No",
+    "duration": "45 minutes",
+    "test_type": "QA"
+  },
+  {
+    "name": "Verify - Numerical Ability",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/verify-numerical-ability/",
+    "description": "Assessment for numerical reasoning and quantitative aptitude.",
+    "remote_testing_support": "Yes",
+    "adaptive_irt_support": "No",
+    "duration": "30 minutes",
+    "test_type": "Aptitude"
+  },
+  {
+    "name": "Occupational Personality Questionnaire OPQ32r",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/occupational-personality-questionnaire-opq32r/",
+    "description": "Assessment for occupational personality traits and workplace fit.",
+    "remote_testing_support": "Yes",
+    "adaptive_irt_support": "No",
+    "duration": "60 minutes",
+    "test_type": "Personality"
+  }
+]
+

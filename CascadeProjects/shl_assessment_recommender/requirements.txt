@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+streamlit
+sentence-transformers
+torch
+scikit-learn
+pandas
+requests
+beautifulsoup4
+faiss-cpu
+httpx
